@@ -38,7 +38,6 @@ header .container.bloc-sm {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
-    text-decoration: none;
 }
 
 .navbar-collapse.collapse {
@@ -67,6 +66,10 @@ header .container.bloc-sm {
     justify-content: space-around;
 }
 
+.contact-title.text-center {
+    color: #333333!important;
+}
+
 #bloc-7 p {
     font-size: 15px;
 }
@@ -84,10 +87,6 @@ footer p {
     text-align: center;
     margin-top: 40px;
     margin-bottom: 20px;
-}
-
-footer a {
-    text-decoration: none;
 }
 
 footer ul {
@@ -712,7 +711,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
